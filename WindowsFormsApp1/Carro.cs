@@ -9,6 +9,7 @@ namespace WindowsFormsApp1
     class Carro
     {
         public String cor;
+	public int ano;
 
         public Carro(String cor)
         {
